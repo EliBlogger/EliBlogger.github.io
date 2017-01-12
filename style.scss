@@ -24,6 +24,11 @@ body {
     background-attachment: fixed;
 }
 
+table, th, td {
+   border: 10px solid white;
+   border-collapse: collapse;
+	
+}
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
@@ -199,7 +204,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $F42B00;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -209,7 +214,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $F42B00;
   font-size: 16px;
 
   @include mobile {
