@@ -223,14 +223,20 @@ img {
   letter-spacing: 1px;
 }
 
-.site-description {
-  margin: -5px 0 0 0;
-  color: #B82601;
+.site-description {  float: left;
+  margin: 0;
+  margin-top: 7px;
+  max-width: 316px;
+  color: $transparentGray;
+  font-family: $merriweather;
+  font-weight: 300; 
   font-size: 16px;
+  line-height: 1.7;
+  cursor: pointer;
 
-  @include mobile {
-    margin: 3px 0;
-  }
+  b {
+    color: white;
+    font-weight: 400;
 }
 
 nav {
