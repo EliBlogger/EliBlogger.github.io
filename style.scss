@@ -32,8 +32,13 @@ table, th, td {
 	background-color: #E95A4C;
 		padding: 15px;
 
-	
+td {
+	padding-right: 15px
+		padding-left: 15px
+	}
 }
+
+
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
