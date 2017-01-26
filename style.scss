@@ -23,6 +23,7 @@ body {
     background-position: centre;
     background-attachment: fixed;
 	  color: #2ce0da;
+font: 18px/1.4 $helvetica;
 
 }
 
@@ -36,11 +37,7 @@ table, th, td {
 }
 
 
-body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
-}
+
 
 .container {
   opacity: 0.9;
