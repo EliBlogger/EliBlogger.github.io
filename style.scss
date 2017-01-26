@@ -27,7 +27,7 @@ font: 18px/1.4 $helvetica;
 
 }
 
-table, th, td {
+table {
    border: 2px solid green;
    border-collapse: collapse;
 	background-color: #E95A4C;
@@ -37,6 +37,15 @@ table, th, td {
 
 }
 
+td { 
+	background-color: #00cc00;
+	
+}
+
+th {
+	background-color: #ff0000;
+	
+}
 
 
 
