@@ -18,7 +18,7 @@ html {
 }
 
 body {
-    background-image: url("http://wallpaper-gallery.net/images/blue-background-images/blue-background-images-13.jpg");
+    background-image: url("https://ae01.alicdn.com/kf/HTB1t3I6HVXXXXbzXXXXq6xXFXXX0/Azul-escuro-Cor-Loja-de-Adere&ccedil;os-de-Casamento-Foto-de-Est&uacute;dio-Vinil-Backdrops-5X7ft-Fundos-Impressos.jpg");
     background-repeat: no-repeat;
     background-position: centre;
     background-attachment: fixed;
@@ -51,7 +51,7 @@ table, th, td {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helvetica;
-  color: #FFF523;
+  color: #000000;
   font-weight: bold;
 
   line-height: 1.7;
@@ -211,7 +211,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #2ce0da;
+  color: #000000;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -221,7 +221,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #FFFFFF;
+  color: #000000;
   font-size: 16px;
 
   @include mobile {
