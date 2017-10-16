@@ -22,7 +22,7 @@ body {
     background-repeat: no-repeat;
     background-position: centre;
     background-attachment: fixed;
-	  color: #E8B580;
+	  color: #000000;
 font: 18px/1.4 $helvetica;
 	width: 100%;
 
@@ -31,7 +31,7 @@ font: 18px/1.4 $helvetica;
 table, th, td {
    border: 2px solid green;
    border-collapse: collapse;
-	background-color: #000000;
+	background-color: #f47a42;
 		padding: 15px;
 
 
@@ -39,7 +39,7 @@ table, th, td {
 
 
 .container {
-  opacity: 70
+  opacity: 90;
   margin: 0 auto;
   max-width: 820px;
   padding: 0 10px;
