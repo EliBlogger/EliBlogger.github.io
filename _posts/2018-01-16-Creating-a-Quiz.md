@@ -40,7 +40,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>This lesson we started off by completing a BuzzFeed quiz. This is because we are now creating a quiz of our own in repl.it. My quiz is about what kind of dog you are. The logic of how I am going to do my quiz is quite simple: I'm going to create a variable for each kind of dog, as each answer will correspond to one dog. For example, if the answer corresponds to Bulldog, then the Bulldog variable will be equal to Bulldog + 1. Last lesson, we worked on a card generator: the code is at the bottom.</td>
+    <td>This lesson we started off by completing a BuzzFeed quiz. This is because we are now creating a quiz of our own in repl.it. My quiz is about what kind of dog you are. The logic of how I am going to do my quiz is quite simple: I'm going to create a variable for each kind of dog, as each answer will correspond to one dog. For example, if the answer corresponds to Bulldog, then the Bulldog variable will be equal to Bulldog + 1. Last lesson, we worked on a card generator. Here is the link: My Random Card Generator</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
